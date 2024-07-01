@@ -1,0 +1,12 @@
+Accuracy: 0.43
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.45      0.45      0.45       102
+           1       0.42      0.42      0.42        98
+
+    accuracy                           0.43       200
+   macro avg       0.43      0.43      0.43       200
+weighted avg       0.43      0.43      0.43       200
+
+Predicted Viability for the New Springshed: 1
